@@ -1,1 +1,4 @@
-# gs3.3
+# server kita
+
+anime game private server 
+
